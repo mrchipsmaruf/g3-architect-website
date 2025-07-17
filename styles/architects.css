@@ -161,6 +161,59 @@ header{
     color: #727272;
 }
 
+/* features you will love and enjoy */
+#feature-section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+
+#feature-description-title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#Experience-badge{
+    padding: 46px 42px;
+    margin-left: -92px;
+    margin-top: -120px;
+}
+
+#year{
+    font-weight: bold;
+    font-size: 4rem;
+    
+}
+
+#Experience{
+    font-weight: 500;
+    font-size: 1.5625rem;
+}
+
+
+.feature-card{
+    padding: 30px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.feature-card .feature-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin: 0 auto;
+    
+}
+
+.more-features{
+    gap: 140px;
+    margin-top: 130px;
+}
+
+.feature-architect img{
+    width: 100%;
+}
+
+
 /* some-facts-section */
 .facts-container{
     display: grid;
@@ -212,6 +265,12 @@ header{
 
 
 /* footer-section */
+footer{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
 .footer-description{
     font-weight: 500;
     font-size: 1.25rem;
@@ -219,7 +278,7 @@ header{
     color: #424242;;
     background-color: #FFF4E7;
     padding: 39px;
-    margin:  150px 240px;
+    margin: 130px auto 200px;
 }
 
 /* responsive-media-query */
@@ -228,7 +287,8 @@ header{
 @media screen and (max-width: 576px) {
     .navbar,
     .nav-links,
-    .teams{
+    .teams,
+    .more-features{
         flex-direction: column;
     }
 
@@ -251,6 +311,11 @@ header{
     .our-features{
         padding: 50px;
         
+    }
+
+    #Experience-badge{
+        margin-top: 20px;
+        margin-left: 40px;
     }
 
     .footer-description{

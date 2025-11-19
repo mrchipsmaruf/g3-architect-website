@@ -9,7 +9,10 @@ Fully responsive with mobile-first design and visually engaging layout.
 
 📸 Screenshot
 
-[![G3 Architect Screenshot](images/screenshot.png)](https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114306.png)
+https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114306.png
+https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114315.png
+
+
 
 📝 Project Overview
 

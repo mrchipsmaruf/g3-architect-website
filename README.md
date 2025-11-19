@@ -8,9 +8,10 @@ Fully responsive with mobile-first design and visually engaging UI.
 🔗 Live Site: https://mrchipsmaruf.github.io/g3-architect-website/
 
 📸 Screenshots
-<img src="https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114306.png" width="600"/>
-<img src="https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114315.png" width="600"/>
-<img src="https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114322.png" width="600"/>
+
+<img src="https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114306.png" width="200"/>
+<img src="https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114315.png" width="200"/>
+<img src="https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114322.png" width="200"/>
 
 📝 Project Overview
 

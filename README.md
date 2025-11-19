@@ -9,9 +9,7 @@ Fully responsive with mobile-first design and visually engaging layout.
 
 📸 Screenshot
 
-https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114306.png
-https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114315.png
-
+<img src="https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114036.png" width="600"/> <img src="https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114135.png" width="600"/> <img src="https://github.com/mrchipsmaruf/g3-architect-website/blob/main/Screenshot%202025-11-19%20114322.png" width="600"/>
 
 
 📝 Project Overview
@@ -37,27 +35,6 @@ Media Queries	Mobile responsiveness
 📦 Dependencies
 
 No external dependencies — pure HTML & CSS.
-
-🖥️ How to Run Locally
-
-Clone the repository:
-
-git clone https://github.com/mrchipsmaruf/g3-architect-website.git
-
-
-Open the folder:
-
-cd g3-architect-website
-
-
-Open the index.html file in any browser:
-
-Double-click
-or
-
-Run:
-
-start index.html
 
 🔗 Relevant Links
 
